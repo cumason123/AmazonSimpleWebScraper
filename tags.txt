@@ -1,0 +1,11 @@
+{
+	"leggings": ["", "nike", "capri", "fabletics", "workout", "flared"], 
+	"jeans":["", "dark", "ripped", "high-rise", "High-Waisted", "Flared", "Levis"], "pants": ["", "flowy", "tight", "loose"], 
+	"dresses": ["", "sleeveless", "long-sleeve", "short-sleeve", "fancy", "casual"], "sweaters": ["", "long-sleeve", "soft"], "sweatshirts": [""], 
+	"jackets": ["workout", "professional", "bomber", "jean", "leather"], 
+	"skirts": ["", "professional", "modest"], 
+	"sweatshirts": [""], 
+	"shorts": ["", "workout"], 
+	"blazers": [""], 
+	"scarves": [""]
+}
